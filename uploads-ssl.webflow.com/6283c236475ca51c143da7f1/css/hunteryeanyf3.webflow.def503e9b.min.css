@@ -2311,7 +2311,8 @@ blockquote {
   font-family: Epilogue, sans-serif;
   font-size: 1rem;
   font-weight: 400;
-  letter-spacing: 1px
+  letter-spacing: 1px;
+
 }
 
 .text-tagline._2 {
@@ -2679,7 +2680,8 @@ blockquote {
   font-family: Vanguardcf, sans-serif;
   font-size: 7rem;
   line-height: .9;
-  font-weight: 700
+  font-weight: 700;
+  color: #EDC491
 }
 
 .text-lg.text-span02.larger,
