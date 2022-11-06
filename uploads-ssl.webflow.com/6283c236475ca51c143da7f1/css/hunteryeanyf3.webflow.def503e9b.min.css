@@ -2208,7 +2208,8 @@ textarea.w-select {
 body {
   margin: 0;
   min-height: 100%;
-  background-color: #1e1e1e;
+  background-color: #252525;
+
   font-family: 'Gt america', sans-serif;
   color: #f9f7f7;
   font-size: 16px;
@@ -2595,7 +2596,7 @@ blockquote {
 }
 
 .section.is--light {
-  background-color: #e3d6d6;
+  background-color: #EDC491;
   color: #1e1e1e
 }
 
@@ -2618,7 +2619,7 @@ blockquote {
 }
 
 .section.footer {
-  background-color: #1e1e1e;
+  background-color: #1B39BB;
   color: #f9f7f7
 }
 
@@ -2775,13 +2776,13 @@ blockquote {
 }
 
 .button.red {
-  background-color: #ff5242;
+  background-color: #C5422F;
   -webkit-transition: background-color .2s;
   transition: background-color .2s
 }
 
 .button.red:hover {
-  background-color: #cd3832
+  background-color: #DD871C
 }
 
 .gallery-container {
